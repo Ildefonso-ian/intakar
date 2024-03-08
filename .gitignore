@@ -1,0 +1,8 @@
+# Ignore .DS_Store en todos los niveles del proyecto
+**/.DS_Store
+
+# Otras carpetas y archivos a ignorar
+
+node_modules/
+*.log
+.DS_Store
